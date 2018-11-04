@@ -1,6 +1,6 @@
 # Python Basics
 
--- basics.py --
+Python Basics - basics.py
 
 1. Variables
 2. String
@@ -15,3 +15,11 @@
 11. Functions
 12. User input
 13. File Handling
+
+
+Filter, Map & Reduce - mapreduce.py
+
+1. Anonymous Functions - lambda
+2. Filter - find even numbers
+3. Map - multiply 0.5 to all filtered numbers
+4. Reduce - sum of all number from step 3
