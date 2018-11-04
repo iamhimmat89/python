@@ -1,25 +1,54 @@
 # Python Basics
 
-Python Basics - basics.py
+# Python Basics - basics.py
 
-1. Variables
-2. String
-3. Arithmetic Operations
-4. List
-5. Tuple
-6. Dictionary
+1. variables
+2. string
+3. arithmetic Operations
+4. list
+5. tuple
+6. dictionary
 7. if-elif-else statement
 8. while loop
 9. for loop
-10. Exception handling
-11. Functions
-12. User input
-13. File Handling
+10. exception handling
+11. functions
+12. global, local variable
+13. special variable __name__
+14. user input
+15. file Handling
 
 
-Filter, Map & Reduce - mapreduce.py
+# Filter, Map & Reduce - mapreduce.py
 
-1. Anonymous Functions - lambda
-2. Filter - find even numbers
-3. Map - multiply 0.5 to all filtered numbers
-4. Reduce - sum of all number from step 3
+1. anonymous Functions - lambda
+2. filter - find even numbers
+3. map - multiply by 0.5 to all filtered numbers
+4. reduce - sum of all number from step 3
+
+
+# Swap numbers - swap.py
+
+1. using third variable
+2. without using third variable
+3. using xor(^) operator
+4. option in python 
+Note - choose only one option from above. Optimal solution - 3 or 4
+
+
+# Factorial - factorial.py
+
+1. default recursion limit and modify default
+2. without recursion calculate factorial
+3. with recursion calculate factorial 
+
+
+# Numpy array and matrix - numpy_array_matrix.py
+
+1. numpy array operations
+2. numpy 2-d array operations
+3. numpy matrix
+
+
+# Multithreading - multithreading.py
+

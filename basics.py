@@ -100,6 +100,26 @@ def cube(num):
 result = cube(5)
 print(result)
 
+
+# global, local variables
+global_a = 10
+print("initial global a =", global_a)
+
+
+def modify_global():
+    local_a = 9
+    print("inside modify_gobal function local a=", local_a)
+    globals()['global_a'] = 15
+
+
+modify_global()
+print("outside modify_global function global a=", global_a)
+
+# Special Variable __name__
+print("Module "+__name__)
+if __name__ == "__main__":
+    print("Welcome User")
+
 # User input
 number = int(input("Enter Number: "))
 print(number)
