@@ -52,3 +52,20 @@ Note - choose only one option from above. Optimal solution - 3 or 4
 
 # Multithreading - multithreading.py
 
+
+# Object Oriented Programming in Python
+
+# Student Class - student.py 
+
+1. __init__
+2. Accessor
+3. Mutator
+4. Class method
+5. Static method
+6. Object compare
+
+# Inner Class -  innerClass.py
+
+# Inhertitance - inhertitance.py
+
+# Polymorphism - polymorphism.py
